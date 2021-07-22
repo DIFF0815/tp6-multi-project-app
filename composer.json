@@ -27,7 +27,12 @@
         "topthink/think-view": "^1.0",
         "hprose/hprose": "^2.0",
         "topthink/think-swoole": "^3.1",
-        "topthink/think-captcha": "^3.0"
+        "topthink/think-captcha": "^3.0",
+        "doctrine/annotations": "^1.13",
+        "phpoffice/phpspreadsheet": "^1.18",
+        "topthink/think-queue": "^3.0",
+        "php-amqplib/php-amqplib": "^3.0",
+        "dragonmantank/cron-expression": "^3.1"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.2",
